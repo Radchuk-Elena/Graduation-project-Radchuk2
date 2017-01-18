@@ -12,7 +12,7 @@ $('document').ready(function(){
 				'<div class="event_block">' + 
 				'<a href="#">' + 
 				'<img src="' + data.events[i]["img"] + '" alt="img">' + 
-				'<h2 class="event_title">' + data.events[i]["event_title"] + ' <span class="data">' + data.events[i]["data"] + '<span class="norm">th</span><br>' + data.events[i]["month"] + '</span></h2>' +   
+				'<h2 class="event_title">' + data.events[i]["event_title"] + ' <span class="date">' + data.events[i]["data"] + '<span class="norm">th</span><br>' + data.events[i]["month"] + '</span></h2>' +   
 				'</a>' + 
 				'</div>'
 			);
