@@ -1,0 +1,33 @@
+{
+	"events": [{
+		"img": "img/event-1.png",
+		"event_title": "Family sunday",
+		"data": 18,
+		"month": "January"
+	}, {
+		"img": "img/event-2.png",
+		"event_title": "Festival",
+		"data": 20,
+		"month": "January"
+	}, {
+		"img": "img/event-3.png",
+		"event_title": "Seminar",
+		"data": 24,
+		"month": "January"
+	}, {
+		"img": "img/event-2.png",
+		"event_title": "Festival",
+		"data": 10,
+		"month": "January"
+	}, {
+		"img": "img/event-3.png",
+		"event_title": "Seminar",
+		"data": 14,
+		"month": "January"
+	}, {
+		"img": "img/event-1.png",
+		"event_title": "Family sunday",
+		"data": 22,
+		"month": "January"
+	}]
+}

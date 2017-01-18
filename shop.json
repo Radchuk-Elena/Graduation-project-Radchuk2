@@ -1,0 +1,27 @@
+{
+	"shop": [{
+		"img": "img/shop-1.png",
+		"shop_title": "E-Book",
+		"price": 4.99
+	}, {
+		"img": "img/shop-2.png",
+		"shop_title": "SevenOaks Mug",
+		"price": 1.99
+	}, {
+		"img": "img/shop-3.png",
+		"shop_title": "SevenOaks T-Shirt",
+		"price": 15.99
+	}, {
+		"img": "img/shop-2.png",
+		"shop_title": "SevenOaks Mug",
+		"price": 1.99
+	}, {
+		"img": "img/shop-3.png",
+		"shop_title": "SevenOaks T-Shirt",
+		"price": 15.99
+	}, {
+		"img": "img/shop-1.png",
+		"shop_title": "E-Book",
+		"price": 4.99
+	}]
+}
